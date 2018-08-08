@@ -1,5 +1,6 @@
-/* Alex Li
-*/
+/* 
+ * Alex Li
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
