@@ -1,4 +1,4 @@
-# Small Shell - A small, bash-like shell program written in C
+# Small Shell - A small, bash-like shell program
 
 Supports input/output redirection, foreground and background processes, signal handling, reaping zombie processes, checking program exit statuses, and general command execution. 
 
