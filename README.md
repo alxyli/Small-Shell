@@ -1,6 +1,6 @@
-# Small Shell - A small, Bash-like shell program
+# Small Shell - A small, bash-like shell program
 
-This program was written as an exercise to get better acquainted with UNIX system calls in C. Supports input/output redirection, foreground and background processes, signal handling, reaping zombie processes, checking program exit statuses, and general command execution. 
+This program was written as an exercise to get better acquainted with UNIX system calls in C. Supports input/output redirection, foreground and background processes, signal handling, reaping zombie processes, checking program exit statuses, and general command execution.
 
 ## Getting Started
 
